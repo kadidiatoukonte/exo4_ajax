@@ -1,0 +1,32 @@
+[
+  {
+  "id" : 1,
+  "name": "Kadi",
+  "age": 25,
+  "city": "Lille"
+},
+{
+  "id" : 2,
+  "name": "Adik",
+  "age": 52,
+  "city": "Paris"
+},
+{
+  "id" : 3,
+  "name": "Dika",
+  "age": 20,
+  "city": "Lyon"
+},
+{
+  "id" : 4,
+  "name": "Ikad",
+  "age": 12,
+  "city": "Tours"
+},
+{
+  "id" : 5,
+  "name": "Ika",
+  "age": 12,
+  "city": "Rouen"
+}
+]
